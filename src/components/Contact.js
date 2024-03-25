@@ -42,7 +42,7 @@ export const Contact = () => {
       setStatus({ succes: false, message: 'Something went wrong, please try again later.'});
     }
   };
-
+ 
   return (
     <section className="contact" id="connect">
       <Container>
